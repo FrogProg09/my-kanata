@@ -18,7 +18,7 @@ In the future maybe I'll consider adding more.
 
 I've decided to try Kanata out because recetly I've implemented home row mods on my [ergonaut one](https://ergonautkb.com/docs/keyboards/ergonaut-one/intro/). And it is too awesome to not use it on regular keyboard, it helps with ergonomics by reducing range of your pinkie's motion (it is actually a big problem with today's populars keyboards). 
 
-Let's see how I've changed key behaviors:
+**Let's see how I've changed key behaviors:**
 
 - Now, to press control, you need to hold S or L keys (mirrored), and to press S or L just tap it. If you want to type ssssssss without killing your keyboard just tap the letter first and hold just after.
 - Super (windows/cmd) key is located at D and K keys. I've decided to place it there because I use tiling window manager (Hyprland) so super is one of my most freqently used keys. Behavior is the same as with S and L keys. 
