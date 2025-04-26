@@ -29,6 +29,11 @@ To install it you could just copy keyboard.kdb file wherever you want and rewrit
 [ticket](https://github.com/jtroo/kanata/discussions/130#discussioncomment-10227272)  
 
 Or you could install it with my install script and still rewrite kanata.service file by yourself. enjoy!:D
+```bash
+git clone https://github.com/FrogProg09/my-kanata.git 
+cd my-kanata
+bash install.sh
+```
 
 ## License
 This repo is under BSD-3 license, you can do whatever you want with at as long as it follows BSD-3's rules.
