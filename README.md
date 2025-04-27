@@ -12,6 +12,7 @@ Here are some things that I've changed:
 | S and L | Left Control [tap-hold] |
 | D and K | Left Super (winodws/cmd) [tap-hold] | 
 | Capslock | Escape |
+| Right Alt | Backspace |
 
 As you can see, there is not many changes.
 In the future maybe I'll consider adding more.
@@ -23,6 +24,7 @@ I've decided to try Kanata out because recetly I've implemented home row mods on
 - Now, to press control, you need to hold S or L keys (mirrored), and to press S or L just tap it. If you want to type ssssssss without killing your keyboard just tap the letter first and hold just after.
 - Super (windows/cmd) key is located at D and K keys. I've decided to place it there because I use tiling window manager (Hyprland) so super is one of my most freqently used keys. Behavior is the same as with S and L keys. 
 - Also, escape is now located at capslock key, it is actually way more convinient then doing acrabatics with your hand, trust me. Nobody uses capslock anyway (you can achieve more with shift) so if you tap - esc and if you hold - caps.
+- Right alt I've remapped to backspace, in my entire life not even once I've used this key
 
 ## Installation
 To install it you could just copy keyboard.kdb file wherever you want and rewrite your kanata.service (linux) here is how to do it:
