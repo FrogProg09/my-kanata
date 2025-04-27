@@ -18,6 +18,7 @@
   k d
   s l
   caps
+  ralt
 )
 
 ;; making actual rebindings
@@ -30,6 +31,7 @@
   l-mod (tap-hold 200 200 l lctl)
   ;; and this one for making a capslock escape
   caps-mod (tap-hold 200 200 esc esc)
+  ralt-mod (tap-hold 200 200 bspc bspc)
 )
 
 ;; operating on keys
@@ -39,4 +41,5 @@
   @s-mod
   @l-mod
   @caps-mod
+  @ralt-mod
 )
